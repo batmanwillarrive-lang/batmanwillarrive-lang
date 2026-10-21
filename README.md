@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Rao Talha Imam</h1>
-
-<p align="center"><b>Shopify & Headless Commerce Specialist • Custom Liquid, Hydrogen & WordPress Developer</b></p>
+<p align="center">
+  <img src="header.svg" alt="Hi, I'm Rao Talha Imam - Shopify & Headless Commerce Specialist" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://batmanwillarrive-lang.github.io/RaoTalha-Developer/">
