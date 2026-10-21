@@ -1,10 +1,20 @@
-# 👋 Hi, I'm Rao Talha Imam
+<h1 align="center">👋 Hi, I'm Rao Talha Imam</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=batmanwillarrive-lang&label=Profile+Views&color=7AB55C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-22C55E?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/SHOPIFY%20DEVELOPER-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Developer" />
+  <img src="https://img.shields.io/badge/HEADLESS%20COMMERCE-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Headless Commerce" />
+</p>
+
+💻 **Shopify & Headless Commerce Specialist | Custom Liquid, Hydrogen & WordPress Developer**
 
 📧 Email me at [raotalha7528@gmail.com](mailto:raotalha7528@gmail.com) for collaboration, projects, or anything else 😊
 
 - 🔭 *I'm Open To Work*
 - 🌱 *I'm currently learning:* Headless Commerce (Shopify Hydrogen / Remix)
 - 📫 *How to reach me:* [raotalha7528@gmail.com](mailto:raotalha7528@gmail.com)
+- 🌐 *Portfolio:* [batmanwillarrive-lang.github.io/RaoTalha-Developer](https://batmanwillarrive-lang.github.io/RaoTalha-Developer/)
 - 😄 *Pronouns:* He/Him
 - ⚡ *Fun fact:* 99 little bugs in the code, take one down, patch it around, 127 little bugs in the code 🐛
 
@@ -47,30 +57,36 @@
 
 ---
 
-## 🌐 Open Source Contributions
+## 🛠️ What I Do
 
-Actively contributing to open-source projects through bug fixes, testing, and collaborative development.
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Your Achievement Name** — Short description of what you achieved
-- 🔧 **Project Name** — Contributed bug fixes and improved test coverage
-- 💬 Collaborated with maintainers through code reviews and incorporated feedback
-- 🧪 Focused on reliable, maintainable, and well-tested code
+- 🛍️ Custom Shopify theme development with **Liquid**
+- ⚡ Headless storefronts with **Hydrogen, React & Remix**
+- 🔌 WordPress & **WooCommerce** custom development
+- 🎨 Turning Figma designs into fast, responsive, pixel-accurate UIs
 
 ---
 
-## 🛠️ Open Source Focus
+## 🎯 Focus Areas
 
-`Shopify` · `Liquid` · `JavaScript` · `React` · `Headless Commerce` · `Open Source`
+`Shopify` · `Liquid` · `Hydrogen` · `React` · `Remix` · `WordPress` · `WooCommerce` · `Tailwind CSS`
 
 ---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batmanwillarrive-lang&show_icons=true&theme=dark&hide_border=true" alt="Rao Talha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=batmanwillarrive-lang&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batmanwillarrive-lang&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=batmanwillarrive-lang&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batmanwillarrive-lang&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
