@@ -53,7 +53,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batmanwillarrive-lang&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/7AB55C/batmanwillarrive-lang" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
