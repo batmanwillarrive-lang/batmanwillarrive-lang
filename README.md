@@ -49,10 +49,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=batmanwillarrive-lang&theme=onedark&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/github/followers/batmanwillarrive-lang?style=for-the-badge&logo=github&label=Followers&color=7AB55C" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/batmanwillarrive-lang&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=1572B6" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/batmanwillarrive-lang&query=$.following&label=Following&style=for-the-badge&logo=github&color=F05032" alt="Following" />
 </p>
 
 ---
