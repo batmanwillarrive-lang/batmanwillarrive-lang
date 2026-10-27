@@ -57,11 +57,11 @@ I'm a Shopify and headless commerce developer based in Karachi, Pakistan. I turn
 | Project | Type | Stack | What I built | Live site |
 |---|---|---|---|---|
 | **Doctor Ibrahim** | Shopify store | Shopify, Liquid | Complete store built from the ground up: custom Liquid sections, homepage and storefront architecture, concept to launch | [doctoribrahim.com](https://doctoribrahim.com) |
-| **Allbirds** | Headless storefront | Shopify Hydrogen, React | **[ADD: your role, e.g. collection page, product page, cart]** | [allbirds.com](https://www.allbirds.com) |
+| **Allbirds** | Headless storefront | Shopify Hydrogen, React | Complete store built from the ground up: custom Liquid sections, homepage and storefront architecture | [allbirds.com](https://www.allbirds.com) |
 | **Champions Gloves** | UK bulk-buying store | Shopify | Store for disposable gloves and hygiene supplies, with "build your set" pages and size selectors | [championsgloves.com](https://championsgloves.com) |
 | **Beauty of Renforcer** | Beauty e-commerce | Shopify, Liquid | Custom Liquid theme with responsive layouts and on-brand presentation | [beautyofrenforcer.com](https://beautyofrenforcer.com) |
 | **Renforcer USA** | Product website | HTML, CSS, JavaScript | Premium dark-and-gold website for a natural honey wellness brand | [renforcerusa.com](https://renforcerusa.com) |
-| **The Skin Studio** | Clinic website | **[ADD: platform]** | Boutique skin clinic website with treatments, FAQs, testimonials and a consultation booking form | [theskinstudio.webliz.co.uk](https://theskinstudio.webliz.co.uk) |
+| **The Skin Studio** | Clinic website | WordPress, Elementor | Boutique skin clinic website with treatments, FAQs, testimonials and a consultation booking form | [theskinstudio.webliz.co.uk](https://theskinstudio.webliz.co.uk) |
 | **TrackPad** | Agency website | WordPress, Elementor | Conversion-focused website for a digital marketing agency, with services and case studies | [track-pad.com](https://track-pad.com) |
 
 > More details in my [portfolio website](https://batmanwillarrive-lang.github.io/RaoTalha-Developer/).
